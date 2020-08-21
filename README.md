@@ -1,6 +1,6 @@
 # API_REST_MONSTRE
 
-# Description de l'application
+## Description de l'application
 
 Ce projet est une exercice d'application sur le REST API .La missson c'est de filtre les type monstre (Larves, Monstres des cavernes, Monstres des plaines herbeuses) dans un jeu Dofus sur [Dofusapi](https://dofapi.fr/) et d'enregistrer dans les fichier JSON. En ruby il y a de beaucoup de methode pour lie au lien de l'API mais dans cette exercice en utilisant le gem HTTParty.
 
@@ -24,5 +24,5 @@ Apres les donnes sone enregistre dans le fichier JSON au dossier db
 
 ## Lien github 
 
-http://gu
+https://github.com/Annyzo/ChasseMonstre_API
 
